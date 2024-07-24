@@ -1,0 +1,9 @@
+[0723/182419.019:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0723/182537.612:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 127
+[0723/182537.612:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 129
+[0723/182544.102:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 789
+[0723/182544.102:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 795
+[0723/182544.102:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 791
+[0723/182544.102:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 787
+[0723/182544.102:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 793
+[0723/185957.319:ERROR:command_buffer_proxy_impl.cc(121)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
